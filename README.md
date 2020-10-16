@@ -7,7 +7,7 @@
 ## 📋 Índice
 
 - [Preview](#-Preview)
-- [Sobew](#-Sobre)
+- [Sobre](#-Sobre)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Layout](#-Layout)
 - [Como executar o projeto](#-Como-executar-o-projeto)
