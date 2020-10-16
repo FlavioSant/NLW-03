@@ -48,7 +48,7 @@ Para acessar o layout use [Figma](https://www.figma.com/file/mDEbnoojksG4w8sOxmu
 
 ## 💻 Como executar o projeto
 
-Para executar a aplicação é necessário ter instalado em seu computador: [Node.js][nodejs] + [Yarn][yarn]
+Para executar a aplicação é necessário ter instalado em seu computador: [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/)
 
 ### Instalando API
 
